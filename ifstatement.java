@@ -13,6 +13,7 @@ public class ifstatement {
 			{
 				System.out.print("the number is"+i*10);
 				i++;
+				
 			}
 		}
 		
